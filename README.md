@@ -20,8 +20,8 @@
 
 ## Информация за авторите на проекта
 
-* **Александър Бояджиев** - *програмист, дизаинер, хардуерист* - [GitHub](https://github.com/AHumbeBarcode)
-* **Теодор Василев** - *програмист, дизаинер, хардуерист* - [GitHub](https://github.com/AHumbeBarcode)
+* **Александър Бояджиев** - *програмист, дизаинер* - [GitHub](https://github.com/AHumbeBarcode)
+* **Теодор Василев** - *хардуерист, дизаинер* - [GitHub](https://github.com/AHumbeBarcode)
 
 
 
