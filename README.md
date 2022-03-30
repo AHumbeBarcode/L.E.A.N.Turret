@@ -16,7 +16,7 @@
 
 ## Използвани технологии
 
-* [Python](линк към официанлния сайт на технологията) - *описание на технологията*
+* [Име на технологията](линк към официанлния сайт на технологията) - *описание на технологията*
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet velit quis est blandit lobortis. Nulla tortor erat, feugiat ut ultricies ac, pretium non leo. Sed sit amet eros cursus, pulvinar nisi sit amet, imperdiet est. In laoreet lacus gravida nisi fringilla euismod. Vivamus enim justo, accumsan luctus enim in, luctus porttitor tellus. Vivamus vitae dignissim orci, ac vehicula diam. Integer ultricies mi sem, a maximus tellus auctor a. Mauris eget augue a urna porttitor accumsan at a elit. Donec vel libero a lectus faucibus interdum eget eget nulla. Proin et ipsum neque. Aliquam molestie fermentum lorem ut faucibus. Aliquam euismod malesuada neque vitae sodales.
 
 ## Информация за авторите на проекта
